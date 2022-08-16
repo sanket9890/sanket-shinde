@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+}
+
+div.title {
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    background-color: antiquewhite;
+}
+
+img {
+   border: 2px solid red; 
+   width: 200px;
+   height: 200px;
+   margin: 1%;
+   border-radius: 50%;
+}
+
+div.form {
+    margin: 2%;
+    padding: 2%;
+    background: #f4f4f4;
+    border: 1px solid #565252;
+    border-radius: 2px;
+}
+.form .control {
+    padding: 1%;
+    color: #2f2f3a;
+    margin: 2%;
+    font: bold 14px "Verdana";
+}
+.form .control input{
+ border : 1px solid black;
+ width: 200px;
+ height: 30px;
+}
+
+.form button {
+    background: blue;
+    border: 2px solid red;
+    font: bold 18px "Verdana";
+    border-radius: 5px;
+}
